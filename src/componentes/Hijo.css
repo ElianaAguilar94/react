@@ -1,0 +1,25 @@
+.Hijo-card{
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 1rem;
+    margin: 1rem;
+    width: 10rem;
+    cursor: pointer;
+}
+.Hijo-card:hover {
+    width: 11rem;
+    -webkit-box-shadow: 8px 8px 7px -8px rgba(255,255,255,1);
+    -moz-box-shadow: 8px 8px 7px -8px rgba(255,255,255,1);
+    box-shadow: 8px 8px 7px -8px rgba(255,255,255,1);
+}
+.body-hijo{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.hijo-logo{
+    width: 100%;
+}
+.text-card{
+    color: #61dafb;
+}

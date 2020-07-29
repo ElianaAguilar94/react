@@ -1,0 +1,27 @@
+.container-anexo{
+   display: flex;
+   justify-content: center;
+   margin-top: 3rem;
+}
+.body-anexo{
+    background-color: #282c34;
+    padding: 1rem;
+    width: 18rem;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+.item ,.item2{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.item2{
+    color: #61dafb;
+}
+a{
+    color: white; 
+    margin-bottom: 0.5rem;
+}
+.anexo-logo{
+    width: 60%;
+}
