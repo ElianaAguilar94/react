@@ -6,6 +6,7 @@ import { Link } from 'react-router-dom';
 class Hijo extends  React.Component {
     constructor(props){
         super(props)
+        console.log(props)
     }
 
     render(){
